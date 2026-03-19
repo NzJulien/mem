@@ -1,7 +1,7 @@
 import GameHeader from './components/Gameheader.jsx'
 import { Card } from './components/Card.jsx'
 import { useEffect,useState } from 'react'
-import { WinMessage } from './components/WinMessage.jsx'
+import  WinMessage  from './components/WinMessage.jsx'
 const cardValues = [
   "🍎",
   "🍌",
